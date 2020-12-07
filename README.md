@@ -1,5 +1,6 @@
 # basic_api
-basic api with Http methods GET,POST,PUT and DELETE
+basic api with Http methods GET,POST,PUT and DELETE 
+USED PERN STACK
 
 
 
